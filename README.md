@@ -1,4 +1,4 @@
-git clone https://github.com/tdd2003/NaSaKi-V4/
+git clone https://github.com/Xuanthang12/nasaki
 
 apt-get install golang -y
 
